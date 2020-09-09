@@ -34,7 +34,7 @@
     border-bottom: 3px solid #fff;
   }
   body {
-    background: url(https://images.unsplash.com/photo-1579781403313-56447cb42199?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+      background: url("formcoronaImage.jpeg");
     font-size: 1rem;
     text-align: center;
   }
